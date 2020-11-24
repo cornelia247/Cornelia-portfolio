@@ -2,14 +2,14 @@
 /*----- VARIABLES CSS Y SASS -----*/
 /*Varibles sass*/
 /*Variables css*/
-/*Colores*/
+
 :root {
   --first-color: #c99029;
   --black-color: #000;
   --white-color: #FFF;
 }
 
-/*Fuente y tipografia*/
+
 :root {
   --body-font: 'Poppins', sans-serif;
   --h1-font-size: 2.5rem;
@@ -214,6 +214,7 @@ img {
 .home__social a{
   text-decoration:none;
   outline:none;
+  color:white;
 }
 
 .home__social-icon:hover {
