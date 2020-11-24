@@ -208,8 +208,12 @@ img {
 
 .home__social-icon {
   margin-bottom: 2rem;
-  font-size: 1.33rem;
+  font-size: 1.5rem;
   cursor: pointer;
+}
+.home__social a{
+  text-decoration:none;
+  outline:none;
 }
 
 .home__social-icon:hover {
